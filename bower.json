@@ -3,7 +3,7 @@
   "dependencies": {
     "ember": "beta",
     "ember-cli-shims": "0.1.1",
-    "selectize": "miguelcobain/selectize.js#master"
+    "selectize": "0.12.4"
   },
   "resolutions": {
     "ember": "beta"
